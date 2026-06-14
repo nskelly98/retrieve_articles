@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ headline }}</title>
+</head>
+<body style="font-family: Georgia, 'Times New Roman', serif; line-height: 1.6; color: #1a1a1a; max-width: 640px; margin: 0 auto; padding: 24px;">
+  <p style="font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: #666;">
+    {{ content_type }} &middot; {{ source_name }} &middot; ~{{ read_time_minutes }} min read
+  </p>
+
+  <h1 style="font-size: 24px; margin-bottom: 8px;">
+    <a href="{{ url }}" style="color: #1a56db; text-decoration: none;">{{ title }}</a>
+  </h1>
+
+  <div style="margin: 24px 0; font-size: 16px;">
+    {% for paragraph in summary.split('\n\n') %}
+    <p>{{ paragraph }}</p>
+    {% endfor %}
+  </div>
+
+  <h2 style="font-size: 18px; margin-top: 32px;">Why it matters for you</h2>
+  <ul style="padding-left: 20px;">
+    {% for item in why_it_matters %}
+    <li style="margin-bottom: 8px;">{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+  <p style="margin-top: 32px;">
+    <a href="{{ url }}" style="display: inline-block; background: #1a56db; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 4px;">
+      Read the full article
+    </a>
+  </p>
+
+  <hr style="border: none; border-top: 1px solid #e5e5e5; margin: 32px 0;">
+  <p style="font-size: 12px; color: #888;">Sent by Daily Article Agent</p>
+</body>
+</html>

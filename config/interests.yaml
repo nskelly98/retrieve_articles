@@ -1,0 +1,33 @@
+topics:
+  - LLM engineering and RAG
+  - MLOps and model deployment
+  - Python data stack (pandas, Polars, DuckDB)
+  - Vector databases and embeddings
+  - AI solutions architecture
+  - Hiring-relevant skills for data and AI roles
+  - Agentic AI systems and tool use
+  - Data engineering and modern pipelines
+
+avoid:
+  - crypto
+  - pure marketing fluff
+  - unrelated political content
+
+career_context: |
+  I'm building skills for data scientist and AI solutions engineer roles.
+  I want to stay current on practical engineering, modern ML/AI stacks, and
+  topics that help in interviews and on the job.
+
+rss_feeds:
+  - name: Google AI Blog
+    url: https://blog.research.google/feeds/posts/default
+  - name: Meta AI Blog
+    url: https://ai.meta.com/blog/rss/
+  - name: Databricks Blog
+    url: https://www.databricks.com/blog/feed
+  - name: Towards Data Science
+    url: https://towardsdatascience.com/feed
+  - name: The Gradient
+    url: https://thegradient.pub/rss/
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
