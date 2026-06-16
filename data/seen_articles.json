@@ -13,5 +13,10 @@
     "url": "https://towardsdatascience.com/vision-llms-are-pdf-parsers-too-reading-charts-and-diagrams-for-rag/",
     "title": "Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG",
     "sent_at": "2026-06-15T19:37:16.361520+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/llm-fallbacks-break-agent-pipelines-i-built-the-missing-recovery-layer/",
+    "title": "LLM Fallbacks Break Agent Pipelines \u2014 I Built the Missing Recovery Layer",
+    "sent_at": "2026-06-16T19:26:45.482364+00:00"
   }
 ]
