@@ -28,5 +28,10 @@
     "url": "https://towardsdatascience.com/dispatching-the-parsed-rag-question-chunk-strategy-model-tier-activations-audit/",
     "title": "Dispatching the Parsed RAG Question: Chunk Strategy, Model Tier, Activations, Audit",
     "sent_at": "2026-06-18T18:20:10.570355+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/",
+    "title": "GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU",
+    "sent_at": "2026-06-19T17:46:46.119045+00:00"
   }
 ]
