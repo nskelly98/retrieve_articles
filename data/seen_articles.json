@@ -38,5 +38,10 @@
     "url": "https://towardsdatascience.com/tool-calling-explained-how-ai-agents-decide-what-to-do-next/",
     "title": "Tool Calling, Explained: How AI Agents Decide What to Do Next",
     "sent_at": "2026-06-22T19:18:00.260117+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/",
+    "title": "Retrieval Is Filtering, Not Search: A Mental Model for Enterprise RAG",
+    "sent_at": "2026-06-23T17:47:26.282475+00:00"
   }
 ]
