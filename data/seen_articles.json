@@ -48,5 +48,10 @@
     "url": "https://towardsdatascience.com/anchor-detection-for-rag-parallel-detectors-then-one-llm-call-at-the-end/",
     "title": "Anchor Detection for RAG: Parallel Detectors, Then One LLM Call at the End",
     "sent_at": "2026-06-24T17:46:27.860734+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/letting-an-llm-pick-the-right-rag-page-the-arbiter-pattern-at-the-end-of-retrieval/",
+    "title": "Letting an LLM Pick the Right RAG Page: The Arbiter Pattern at the End of Retrieval",
+    "sent_at": "2026-06-25T18:01:38.662433+00:00"
   }
 ]
