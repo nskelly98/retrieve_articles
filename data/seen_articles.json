@@ -68,5 +68,10 @@
     "url": "https://towardsdatascience.com/context-engineering-for-rag-the-four-typed-inputs-behind-every-rag-answer/",
     "title": "Context Engineering for RAG : The Four Typed Inputs Behind Every RAG Answer",
     "sent_at": "2026-06-30T17:46:15.509343+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/persistent-latent-memory-for-multi-hop-llm-agents-how-a-6g-handover-paper-closes-the-agent-cold-start/",
+    "title": "Persistent Latent Memory for Multi-Hop LLM Agents: How a 6G Handover Paper Closes the Agent Cold-Start",
+    "sent_at": "2026-07-01T17:45:23.602409+00:00"
   }
 ]
