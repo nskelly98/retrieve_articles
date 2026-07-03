@@ -78,5 +78,10 @@
     "url": "https://towardsdatascience.com/the-untaught-lessons-of-rag-question-parsing-structure-before-you-search/",
     "title": "The Untaught Lessons of RAG Question Parsing: Structure Before You Search",
     "sent_at": "2026-07-02T17:25:12.656739+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/",
+    "title": "The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation",
+    "sent_at": "2026-07-03T17:10:54.474605+00:00"
   }
 ]
