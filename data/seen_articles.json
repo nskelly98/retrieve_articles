@@ -88,5 +88,10 @@
     "url": "https://towardsdatascience.com/validating-the-rag-answer-before-the-user-sees-it-spans-quotes-and-the-feedback-loop/",
     "title": "Validating the RAG Answer Before the User Sees It: Spans, Quotes, and the Feedback Loop",
     "sent_at": "2026-07-06T18:03:40.752803+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/",
+    "title": "A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers",
+    "sent_at": "2026-07-07T17:50:14.843634+00:00"
   }
 ]
