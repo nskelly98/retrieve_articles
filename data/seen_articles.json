@@ -93,5 +93,10 @@
     "url": "https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/",
     "title": "A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers",
     "sent_at": "2026-07-07T17:50:14.843634+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/",
+    "title": "Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation",
+    "sent_at": "2026-07-08T17:17:14.949798+00:00"
   }
 ]
