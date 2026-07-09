@@ -98,5 +98,10 @@
     "url": "https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/",
     "title": "Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation",
     "sent_at": "2026-07-08T17:17:14.949798+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/",
+    "title": "Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy",
+    "sent_at": "2026-07-09T17:46:04.219486+00:00"
   }
 ]
