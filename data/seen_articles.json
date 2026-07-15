@@ -118,5 +118,10 @@
     "url": "https://towardsdatascience.com/rag-vs-fine-tuning-explained-what-they-actually-do-and-when-to-use-each/",
     "title": "RAG vs Fine-Tuning Explained: What They Actually Do and When to Use Each",
     "sent_at": "2026-07-14T17:00:52.133411+00:00"
+  },
+  {
+    "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
+    "title": "Unsolved Problems in MLOps",
+    "sent_at": "2026-07-15T17:03:06.028324+00:00"
   }
 ]
