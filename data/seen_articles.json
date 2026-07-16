@@ -123,5 +123,10 @@
     "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
     "title": "Unsolved Problems in MLOps",
     "sent_at": "2026-07-15T17:03:06.028324+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "sent_at": "2026-07-16T17:01:25.318484+00:00"
   }
 ]
