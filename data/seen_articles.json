@@ -128,5 +128,10 @@
     "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
     "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
     "sent_at": "2026-07-16T17:01:25.318484+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and \ud83e\udd17 Diffusers",
+    "sent_at": "2026-07-17T16:57:24.056218+00:00"
   }
 ]
