@@ -133,5 +133,10 @@
     "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and \ud83e\udd17 Diffusers",
     "sent_at": "2026-07-17T16:57:24.056218+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "title": "Introducing Cosmos 3 Edge",
+    "sent_at": "2026-07-20T17:16:33.123338+00:00"
   }
 ]
