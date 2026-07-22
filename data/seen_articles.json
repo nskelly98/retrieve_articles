@@ -138,5 +138,10 @@
     "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
     "title": "Introducing Cosmos 3 Edge",
     "sent_at": "2026-07-20T17:16:33.123338+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/",
+    "title": "Loop Engineering for RAG Generation: iterate top-k one at a time",
+    "sent_at": "2026-07-22T17:05:51.210467+00:00"
   }
 ]
