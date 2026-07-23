@@ -143,5 +143,10 @@
     "url": "https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/",
     "title": "Loop Engineering for RAG Generation: iterate top-k one at a time",
     "sent_at": "2026-07-22T17:05:51.210467+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/",
+    "title": "Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typed Generation Contract",
+    "sent_at": "2026-07-23T17:07:39.741253+00:00"
   }
 ]
