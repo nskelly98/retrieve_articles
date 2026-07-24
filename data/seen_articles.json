@@ -148,5 +148,10 @@
     "url": "https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/",
     "title": "Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typed Generation Contract",
     "sent_at": "2026-07-23T17:07:39.741253+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/",
+    "title": "Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship",
+    "sent_at": "2026-07-24T17:19:30.275995+00:00"
   }
 ]
