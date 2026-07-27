@@ -153,5 +153,10 @@
     "url": "https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/",
     "title": "Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship",
     "sent_at": "2026-07-24T17:19:30.275995+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-i-reproduced-bm25-dense-retrieval-and-splade-on-a-16gb-macbook/",
+    "title": "How I Reproduced BM25, Dense Retrieval, and SPLADE on a 16GB MacBook",
+    "sent_at": "2026-07-27T17:28:05.571052+00:00"
   }
 ]
