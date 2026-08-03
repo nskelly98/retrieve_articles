@@ -178,5 +178,10 @@
     "url": "https://towardsdatascience.com/how-to-debug-ai-coding-agents-when-they-change-the-wrong-thing/",
     "title": "How to Debug AI Coding Agents When They Change the Wrong Thing",
     "sent_at": "2026-07-31T17:16:43.878903+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/",
+    "title": "Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On",
+    "sent_at": "2026-08-03T17:45:13.983583+00:00"
   }
 ]
