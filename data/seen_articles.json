@@ -183,5 +183,10 @@
     "url": "https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/",
     "title": "Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On",
     "sent_at": "2026-08-03T17:45:13.983583+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-medallion-data-architecture/",
+    "title": "The Medallion Data Architecture: An Introduction",
+    "sent_at": "2026-08-04T17:28:09.940871+00:00"
   }
 ]
