@@ -188,5 +188,10 @@
     "url": "https://towardsdatascience.com/the-medallion-data-architecture/",
     "title": "The Medallion Data Architecture: An Introduction",
     "sent_at": "2026-08-04T17:28:09.940871+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/building-document-structure-with-loop-engineering-recovering-a-pdfs-outline-from-body-typography-for-rag/",
+    "title": "Building Document Structure with Loop Engineering: Recovering a PDF\u2019s Outline from Body Typography for RAG",
+    "sent_at": "2026-08-05T17:17:01.151146+00:00"
   }
 ]
