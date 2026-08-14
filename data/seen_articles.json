@@ -218,5 +218,10 @@
     "url": "https://towardsdatascience.com/cut-an-enterprise-rag-pipelines-latency-and-cost-by-calling-the-llm-less-not-by-buying-a-faster-model/",
     "title": "Cut an Enterprise RAG Pipeline\u2019s Latency and Cost by Calling the LLM Less, Not by Buying a Faster Model",
     "sent_at": "2026-08-13T16:43:06.625083+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/rag-workflow-and-loop-engineering-the-dispatcher-that-decides-when-to-loop-and-when-to-stop/",
+    "title": "RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop",
+    "sent_at": "2026-08-14T16:39:01.479513+00:00"
   }
 ]
