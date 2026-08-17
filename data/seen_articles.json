@@ -223,5 +223,10 @@
     "url": "https://towardsdatascience.com/rag-workflow-and-loop-engineering-the-dispatcher-that-decides-when-to-loop-and-when-to-stop/",
     "title": "RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop",
     "sent_at": "2026-08-14T16:39:01.479513+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/loop-engineering-for-rag-the-small-loops-inside-each-step-the-big-loops-across-the-pipeline/",
+    "title": "Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline",
+    "sent_at": "2026-08-17T16:13:48.145262+00:00"
   }
 ]
