@@ -243,5 +243,10 @@
     "url": "https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/",
     "title": "Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One",
     "sent_at": "2026-08-20T16:20:23.327702+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/",
+    "title": "Kimi K3\u2019s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality",
+    "sent_at": "2026-08-21T16:18:43.057576+00:00"
   }
 ]
