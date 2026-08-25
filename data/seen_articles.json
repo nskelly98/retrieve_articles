@@ -253,5 +253,10 @@
     "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard",
     "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
     "sent_at": "2026-08-24T16:22:36.993364+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-deployed-my-data-pipeline-to-aws-then-everything-that-was-local-broke/",
+    "title": "I Deployed My Data Pipeline to AWS. Then Everything That Was \u201cLocal\u201d Broke.",
+    "sent_at": "2026-08-25T16:22:47.534785+00:00"
   }
 ]
