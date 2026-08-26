@@ -258,5 +258,10 @@
     "url": "https://towardsdatascience.com/i-deployed-my-data-pipeline-to-aws-then-everything-that-was-local-broke/",
     "title": "I Deployed My Data Pipeline to AWS. Then Everything That Was \u201cLocal\u201d Broke.",
     "sent_at": "2026-08-25T16:22:47.534785+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-does-a-rag-reranker-really-work-the-honest-answer-most-data-scientists-wont-give-you/",
+    "title": "How Does a RAG Reranker Really Work?",
+    "sent_at": "2026-08-26T16:40:20.263068+00:00"
   }
 ]
