@@ -283,5 +283,10 @@
     "url": "https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/",
     "title": "AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production",
     "sent_at": "2026-09-01T18:56:40.285789+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/",
+    "title": "A RAG That Says \u201cNot in This Document\u201d Has to Show Four Kinds of Evidence",
+    "sent_at": "2026-09-02T19:02:18.573640+00:00"
   }
 ]
