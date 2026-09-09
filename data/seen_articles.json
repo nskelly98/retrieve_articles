@@ -308,5 +308,10 @@
     "url": "https://towardsdatascience.com/the-model-validation-playbook-for-genai-lessons-from-banking/",
     "title": "The Model Validation Playbook for GenAI: Lessons from Banking",
     "sent_at": "2026-09-08T19:05:07.951485+00:00"
+  },
+  {
+    "url": "https://neo4j.com/essential-graphrag/",
+    "title": "A comprehensive guide to production-ready RAG",
+    "sent_at": "2026-09-09T18:54:44.636141+00:00"
   }
 ]
