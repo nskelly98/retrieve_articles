@@ -313,5 +313,10 @@
     "url": "https://neo4j.com/essential-graphrag/",
     "title": "A comprehensive guide to production-ready RAG",
     "sent_at": "2026-09-09T18:54:44.636141+00:00"
+  },
+  {
+    "url": "https://towardsdatascience.com/optimizing-llm-inference-costs-in-multi-agent-systems-with-adaptive-model-routing/",
+    "title": "Optimizing LLM Inference Costs in Multi-Agent Systems with Adaptive Model Routing",
+    "sent_at": "2026-09-10T18:46:48.804690+00:00"
   }
 ]
