@@ -318,5 +318,10 @@
     "url": "https://towardsdatascience.com/optimizing-llm-inference-costs-in-multi-agent-systems-with-adaptive-model-routing/",
     "title": "Optimizing LLM Inference Costs in Multi-Agent Systems with Adaptive Model Routing",
     "sent_at": "2026-09-10T18:46:48.804690+00:00"
+  },
+  {
+    "url": "https://github.com/paulknysh/raggy",
+    "title": "Show HN: Raggy \u2013 A lightweight CLI tool for RAG over local documents",
+    "sent_at": "2026-09-11T18:50:15.169405+00:00"
   }
 ]
